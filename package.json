@@ -1,0 +1,26 @@
+{
+  
+    "name": "jsondata",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1",
+      "build": "echo \"No build specified\" && exit 1",
+      "start":" node index.js"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/AWMprabhat/jsonData.git"
+    },
+    "keywords": [],
+    "author": "AWMprabhat",
+    "license": "ISC",
+    "bugs": {
+          "url": "https://github.com/AWMprabhat/jsonData/issues"
+        },
+        "homepage": "https://github.com/AWMprabhat/jsonData#readme",
+    "dependencies": {
+      "json-server": "^0.17.1"
+    }
+  }
