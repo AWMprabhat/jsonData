@@ -35,7 +35,7 @@
   "Role":"Love Prabhat"
 }
   ],
-    "posts": [
+    "twiterposts": [
     {
       "tweet": "Hello",
       "gif": "https://media2.giphy.com/media/28GHfhGFWpFgsQB4wR/giphy.gif?cid=e9ac2e6c8ds9hx8gqqxlaqkd6v79pyef1dubtqd1awdnuk6l&rid=giphy.gif&ct=g",
@@ -47,5 +47,42 @@
       "gif": "https://media3.giphy.com/media/B1CrvUCoMxhy8/giphy.gif?cid=e9ac2e6crwui2ceo4lijv4dyfefn1nmivqrhpfotwjpi581a&rid=giphy.gif&ct=g",
       "id": 2
     }
+  ],
+   "user": [
+    {
+      "id": 1,
+      "avatar": "https://pravatar.cc/",
+      "full_name": "Utkarsh",
+      "email": "kira@gmail.com",
+      "password": "123"
+    }
+  ],
+  "posts":[
+    {
+        "id":1,
+        "title":"I Love Music",
+        "img_url":"https://giphy.com/gifs/hallmarkecards-cute-hallmark-shoebox-BzyTuYCmvSORqs1ABM",
+        "post_by":"kira@gmail.com"
+    }
+  ],
+   "data":[
+ {
+    "id":1,
+    "name":"prabhat",
+    "age":"22",
+    "gender":"Male",
+    "Country":"India",
+    "Profession":"Student"
+
+    },
+    {
+      "id":2,
+      "name":"Bhardwaj",
+      "age":"21",
+      "gender":"Male",
+      "Country":"India",
+      "Profession":"Employed"
+  
+      }
   ]
 }
