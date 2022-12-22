@@ -84,5 +84,13 @@
       "Profession":"Employed"
   
       }
+  ],
+  "notes": [
+    {
+      "id": 1
+      "title": "React",
+      "description": "If you don’t experience the problems described above or don’t feel comfortable using JavaScript tools yet, consider adding React as a plain <script> tag on an HTML page, optionally with JSX.",
+      "time": "12/22/2022",
+    }
   ]
 }
