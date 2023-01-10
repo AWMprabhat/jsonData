@@ -110,5 +110,25 @@
       "description":"The product description field can be used to provide detailed descriptions about the product. In contrast with the title, the description field can accept up to 16k characters (though we recommend no more than 10k characters) and support HTML tag based formatting of the content.",
       "time":"02/o6/2022"
     }
-      ]
+      ],
+      
+          "dogs": [
+              {
+                    "id": 1,
+                          "name": "Cherry",
+                                "age": 2,
+                                      "place": "Visakhapatnam",
+                                            "gender": "Male"
+                                                },
+                                                    {
+                                                          "id": 2,
+                                                                "name": "Tommy",
+                                                                      "age": 3,
+                                                                            "place": "Banglore",
+                                                                                  "gender": "Female"
+                                                                                      }
+                                                                                        ]
+                                                                                        
+      
+
 }
