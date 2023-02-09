@@ -1,41 +1,41 @@
 {
-  "post":[
-      {
-        "company": "Ellette",
-        "postedAt": "2021-03-30",
-        "city": "Gangtok",
-        "location": "American Samoa",
-        "role": "Frontend",
-        "level": "Junior",
-        "contract": "Full Time",
-        "position": " Backend Developer",
-        "language": "Java"
-      },
-      {
-        "company": "Jinny",
-        "postedAt": "2021-09-09",
-        "city": "Ludhiana",
-        "location": "Belgium",
-        "role": "FullStack",
-        "level": "Junior",
-        "contract": "Full Time",
-        "position": "Junior Frontend Developer",
-        "language": "Java"
-      }
+  "post": [
+    {
+      "company": "Ellette",
+      "postedAt": "2021-03-30",
+      "city": "Gangtok",
+      "location": "American Samoa",
+      "role": "Frontend",
+      "level": "Junior",
+      "contract": "Full Time",
+      "position": " Backend Developer",
+      "language": "Java"
+    },
+    {
+      "company": "Jinny",
+      "postedAt": "2021-09-09",
+      "city": "Ludhiana",
+      "location": "Belgium",
+      "role": "FullStack",
+      "level": "Junior",
+      "contract": "Full Time",
+      "position": "Junior Frontend Developer",
+      "language": "Java"
+    }
   ],
-  "prabhat":[
-{
-  "name":"Prabhat Bhardwaj",
-  "contect No.":"7631766466",
-  "Role":"Full-Stack Developer"
-},
-{
-  "name":"Sneha Prabhat Bhardwaj",
-  "contect No.":"8789791714",
-  "Role":"Love Prabhat"
-}
+  "prabhat": [
+    {
+      "name": "Prabhat Bhardwaj",
+      "contect No.": "7631766466",
+      "Role": "Full-Stack Developer"
+    },
+    {
+      "name": "Sneha Prabhat Bhardwaj",
+      "contect No.": "8789791714",
+      "Role": "Love Prabhat"
+    }
   ],
-    "twiterposts": [
+  "twiterposts": [
     {
       "tweet": "Hello",
       "gif": "https://media2.giphy.com/media/28GHfhGFWpFgsQB4wR/giphy.gif?cid=e9ac2e6c8ds9hx8gqqxlaqkd6v79pyef1dubtqd1awdnuk6l&rid=giphy.gif&ct=g",
@@ -48,7 +48,7 @@
       "id": 2
     }
   ],
-   "user": [
+  "user": [
     {
       "id": 1,
       "avatar": "https://pravatar.cc/",
@@ -57,40 +57,38 @@
       "password": "123"
     }
   ],
-  "posts":[
+  "posts": [
     {
-        "id":1,
-        "title":"I Love Music",
-        "img_url":"https://giphy.com/gifs/hallmarkecards-cute-hallmark-shoebox-BzyTuYCmvSORqs1ABM",
-        "post_by":"kira@gmail.com"
+      "id": 1,
+      "title": "I Love Music",
+      "img_url": "https://giphy.com/gifs/hallmarkecards-cute-hallmark-shoebox-BzyTuYCmvSORqs1ABM",
+      "post_by": "kira@gmail.com"
     }
   ],
-   "data":[
- {
-    "id":1,
-    "name":"prabhat",
-    "age":"22",
-    "gender":"Male",
-    "Country":"India",
-    "Profession":"Student"
-
+  "data": [
+    {
+      "id": 1,
+      "name": "prabhat",
+      "age": "22",
+      "gender": "Male",
+      "Country": "India",
+      "Profession": "Student"
     },
     {
-      "id":2,
-      "name":"Bhardwaj",
-      "age":"21",
-      "gender":"Male",
-      "Country":"India",
-      "Profession":"Employed"
-  
-      }
+      "id": 2,
+      "name": "Bhardwaj",
+      "age": "21",
+      "gender": "Male",
+      "Country": "India",
+      "Profession": "Employed"
+    }
   ],
   "notes": [
-        {
-    "id":5,
-      "title":"Raina makes stunning ‘DRS’ revelation about MSD",
-      "description":"By HT Sports Desk MS Dhoni is well known for his accuracy in getting umpire's on-field calls reviewed by the Decision Review System. A DRS call can turn the match on its head, imagine getting a dismissal in one's favour or having one overturned by DRS. Such timely and perfect calls by a team's captain, have proven to be the gamechanger on many occasions in a cricket match. Such is the former India captain's reading of the game and moments in the match that cricket fans have started calling DRS as Dhoni Review System.",
-      "time":"20/01/2023"
+    {
+      "id": 5,
+      "title": "Raina makes stunning ‘DRS’ revelation about MSD",
+      "description": "By HT Sports Desk MS Dhoni is well known for his accuracy in getting umpire's on-field calls reviewed by the Decision Review System. A DRS call can turn the match on its head, imagine getting a dismissal in one's favour or having one overturned by DRS. Such timely and perfect calls by a team's captain, have proven to be the gamechanger on many occasions in a cricket match. Such is the former India captain's reading of the game and moments in the match that cricket fans have started calling DRS as Dhoni Review System.",
+      "time": "20/01/2023"
     },
     {
       "id": 3,
@@ -105,36 +103,44 @@
       "time": "12/2/2022"
     },
     {
-      "id":2,
-      "title":"Product description",
-      "description":"The product description field can be used to provide detailed descriptions about the product. In contrast with the title, the description field can accept up to 16k characters (though we recommend no more than 10k characters) and support HTML tag based formatting of the content.",
-      "time":"02/06/2022"
+      "id": 2,
+      "title": "Product description",
+      "description": "The product description field can be used to provide detailed descriptions about the product. In contrast with the title, the description field can accept up to 16k characters (though we recommend no more than 10k characters) and support HTML tag based formatting of the content.",
+      "time": "02/06/2022"
     },
-        {
-    "id":7,
-      "title":"Anushka Sharma shares glimpse of her yoga pose inside daughter Vamika's room",
-      "description":"Anushka Sharma has often spoken about just how positive of an impact yoga has on her life. Sharing a photo from her recent yoga class, Anushka once again impressed her Instagram followers with her fitness routine. The actor shared a photo of herself doing yoga inside daughter Vamika Kohli's room",
-      "time":"21/01/2023"
+    {
+      "id": 7,
+      "title": "Anushka Sharma shares glimpse of her yoga pose inside daughter Vamika's room",
+      "description": "Anushka Sharma has often spoken about just how positive of an impact yoga has on her life. Sharing a photo from her recent yoga class, Anushka once again impressed her Instagram followers with her fitness routine. The actor shared a photo of herself doing yoga inside daughter Vamika Kohli's room",
+      "time": "21/01/2023"
     }
-      ],
-      
-          "dogs": [
-              {
-                    "id": 1,
-                          "name": "Cherry",
-                                "age": 2,
-                                      "place": "Visakhapatnam",
-                                            "gender": "Male"
-                                                },
-                                                    {
-                                                          "id": 2,
-                                                                "name": "Tommy",
-                                                                      "age": 3,
-                                                                            "place": "Banglore",
-                                                                                  "gender": "Female"
-                                                                                      }
-                                                                                        ]
-                                                                                        
-      
-
+  ],
+  "dogs": [
+    {
+      "id": 1,
+      "name": "Cherry",
+      "age": 2,
+      "place": "Visakhapatnam",
+      "gender": "Male"
+    },
+    {
+      "id": 2,
+      "name": "Tommy",
+      "age": 3,
+      "place": "Banglore",
+      "gender": "Female"
+    }
+  ],
+  "books" :[
+  {
+    "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
+    "book_name": "Harry Potter and the Philosopher's Stone",
+    "author": "J. K. Rowling",
+		"genre": "fiction",
+		"edition": "2021",
+		"publisher": "Bloomsbury",
+		"cost": 1299,
+		"borrowed": false
+  }
+]
 }
