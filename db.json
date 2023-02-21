@@ -180,5 +180,126 @@
       
     }]
   }
-]
+],
+	    "results": [
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "Which of these TrackMania environments was NOT in the original game?",
+            "correct_answer": "Bay",
+            "incorrect_answers": [
+                "Desert",
+                "Snow",
+                "Rally"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Which is not a playable character in the 2005 video game Killer7?",
+            "correct_answer": "Frank Smith",
+            "incorrect_answers": [
+                "Mask de Smith",
+                "Dan Smith",
+                "Coyote Smith"
+            ]
+        },
+        {
+            "category": "Science: Mathematics",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "The decimal number 31 in hexadecimal would be what?",
+            "correct_answer": "1F",
+            "incorrect_answers": [
+                "3D",
+                "2E",
+                "1B"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "boolean",
+            "difficulty": "easy",
+            "question": "In Sonic the Hedgehog universe, Tails&#039; real name is Miles Prower.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "category": "Entertainment: Film",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Darth Vader&#039;s famous reveal to Luke is iconic. But which of these is the right one?",
+            "correct_answer": "&quot;No. I am your father.&quot;",
+            "incorrect_answers": [
+                "&quot;Luke, I am your father.&quot;",
+                "&quot;You&#039;re wrong. I am your father.&quot;",
+                "&quot;The truth is that I am your father.&quot;"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "This weapon in Counter-Strike: Global Offensive does not exist in real life.",
+            "correct_answer": "M4A4",
+            "incorrect_answers": [
+                "AWP",
+                "M4A1",
+                "MP9"
+            ]
+        },
+        {
+            "category": "Geography",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What is the capital of India?",
+            "correct_answer": "New Delhi",
+            "incorrect_answers": [
+                "Bejing",
+                "Montreal",
+                "Tithi"
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Why was The Green Monster at Fenway Park was originally built?",
+            "correct_answer": "To prevent viewing games from outside the park.",
+            "incorrect_answers": [
+                "To make getting home runs harder.",
+                "To display advertisements.",
+                "To provide extra seating."
+            ]
+        },
+        {
+            "category": "Entertainment: Japanese Anime & Manga",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What name is the main character Chihiro given in the 2001 movie &quot;Spirited Away&quot;?",
+            "correct_answer": "Sen (Thousand)",
+            "incorrect_answers": [
+                "Hyaku (Hundred)",
+                "Ichiman (Ten thousand)",
+                "Juu (Ten)"
+            ]
+        },
+        {
+            "category": "Geography",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Which of the following is not a megadiverse country - one that harbors a high number of the earth&#039;s endemic species?",
+            "correct_answer": "Thailand",
+            "incorrect_answers": [
+                "Peru",
+                "Mexico",
+                "South Africa"
+            ]
+        }
+    ]
+
 }
