@@ -21,837 +21,147 @@
       "contract": "Full Time",
       "position": "Junior Frontend Developer",
       "language": "Java"
-    },
-  {
-    "company": "Paytm",
-    "city": "bangluru",
-    "location": "karnataka",
-    "postedAt": "2023-10-31",
-    "role": "Frontend",
-    "level": "Senior",
-    "contract": "Full Time",
-    "position": "Junior Frontend Developer",
-    "language": "Html",
-    "id": 8
-  },
-  {
-    "company": "Paytm",
-    "city": "bangluru",
-    "location": "karnataka",
-    "postedAt": "2023-10-31",
-    "role": "Frontend",
-    "level": "Senior",
-    "contract": "Full Time",
-    "position": "Junior Frontend Developer",
-    "language": "Java",
-    "id": 9
-  },
-  {
-    "company": "mayntra",
-    "city": "bangluru",
-    "location": "karnataka",
-    "postedAt": "2023-10-31",
-    "role": "Frontend",
-    "level": "Senior",
-    "contract": "Full Time",
-    "position": "Junior Frontend Developer",
-    "language": "Java",
-    "id": 10
-  },
-  {
-    "company": "vishal",
-    "city": "sehore",
-    "location": "sehore",
-    "postedAt": "2023-06-12",
-    "role": "Frontend",
-    "level": "Senior",
-    "contract": "Full Time",
-    "position": "Junior Frontend Developer",
-    "language": "C",
-    "id": 11
-  },
-  {
-    "company": "rohit",
-    "city": "bhopal",
-    "location": "bhopal",
-    "postedAt": "2022-06-12",
-    "role": "Frontend",
-    "level": "Senior",
-    "contract": "Full Time",
-    "position": "Junior Frontend Developer",
-    "language": "Javascript",
-    "id": 12
-  },
-  {
-    "company": "Ellette",
-    "city": "Gangtok",
-    "location": "American Samoa",
-    "postedAt": "2022-12-20",
-    "role": "Frontend",
-    "level": "Senior",
-    "contract": "Full Time",
-    "position": "Junior Frontend Developer",
-    "language": "Javascript",
-    "id": 13
-  },
-  {
-    "company": "Nike",
-    "city": "London",
-    "location": "London",
-    "postedAt": "2023-01-31",
-    "role": "Backend",
-    "level": "Junior",
-    "contract": "Part Time",
-    "position": "Junior Frontend Developer",
-    "language": "CSS",
-    "id": 14
-  },
-  {
-    "company": "Paytm",
-    "city": "bangluru",
-    "location": "karnataka",
-    "postedAt": "2023-10-31",
-    "role": "Backend",
-    "level": "Senior",
-    "contract": "Full Time",
-    "position": "Junior Frontend Developer",
-    "language": "CSS",
-    "id": 3
-  },
-  {
-    "company": "Paytm",
-    "city": "bangluru",
-    "location": "karnataka",
-    "postedAt": "2023-10-31",
-    "role": "Backend",
-    "level": "Senior",
-    "contract": "Full Time",
-    "position": "Junior Frontend Developer",
-    "language": "Java",
-    "id": 32
-  },
-  {
-    "company": "Paytm",
-    "city": "bangluru",
-    "location": "karnataka",
-    "postedAt": "2023-10-31",
-    "role": "Backend",
-    "level": "Senior",
-    "contract": "Full Time",
-    "position": "Junior Frontend Developer",
-    "language": "Html",
-    "id": 15
-  },
-  {
-    "company": "Paytm",
-    "city": "bangluru",
-    "location": "karnataka",
-    "postedAt": "2023-10-31",
-    "role": "Frontend",
-    "level": "Senior",
-    "contract": "Full Time",
-    "position": "Junior Frontend Developer",
-    "language": "Java",
-    "id": 16
-  },
-  {
-    "company": "Paytm",
-    "city": "bangluru",
-    "location": "karnataka",
-    "postedAt": "2023-10-31",
-    "role": "Backend",
-    "level": "Senior",
-    "contract": "Full Time",
-    "position": "Junior Frontend Developer",
-    "language": "Html",
-    "id": 17
-  },
-  {
-    "company": "Paytm",
-    "city": "bangluru",
-    "location": "karnataka",
-    "postedAt": "2023-10-31",
-    "role": "Frontend",
-    "level": "Senior",
-    "contract": "Full Time",
-    "position": "Junior Frontend Developer",
-    "language": "Html",
-    "id": 18
-  },
-  {
-    "company": "Paytm",
-    "city": "bangluru",
-    "location": "karnataka",
-    "postedAt": "2023-10-31",
-    "role": "Frontend",
-    "level": "Senior",
-    "contract": "Full Time",
-    "position": "Junior Frontend Developer",
-    "language": "Java",
-    "id": 19
-  },
-  {
-    "company": "mayntra",
-    "city": "bangluru",
-    "location": "karnataka",
-    "postedAt": "2023-10-31",
-    "role": "Frontend",
-    "level": "Senior",
-    "contract": "Full Time",
-    "position": "Junior Frontend Developer",
-    "language": "Java",
-    "id": 110
-  },
-  {
-    "company": "vishal",
-    "city": "sehore",
-    "location": "sehore",
-    "postedAt": "2023-06-12",
-    "role": "Frontend",
-    "level": "Senior",
-    "contract": "Full Time",
-    "position": "Junior Frontend Developer",
-    "language": "C",
-    "id": 111
-  },
-  {
-    "company": "rohit",
-    "city": "bhopal",
-    "location": "bhopal",
-    "postedAt": "2022-06-12",
-    "role": "Frontend",
-    "level": "Senior",
-    "contract": "Full Time",
-    "position": "Junior Frontend Developer",
-    "language": "Javascript",
-    "id": 112
-  }
-
-  ],
-  "data":[
-     
-  {
-    "company": "Ellette",
-    "city": "Gangtok",
-    "location": "American Samoa",
-    "postedAt": "2022-12-20",
-    "role": "Frontend",
-    "level": "Senior",
-    "contract": "Full Time",
-    "position": "Junior Frontend Developer",
-    "language": "Javascript",
-    "id": 1
-  },
-  {
-    "company": "Nike",
-    "city": "London",
-    "location": "London",
-    "postedAt": "2023-01-31",
-    "role": "Backend",
-    "level": "Junior",
-    "contract": "Part Time",
-    "position": "Junior Frontend Developer",
-    "language": "CSS",
-    "id": 2
-  },
-  {
-    "company": "Paytm",
-    "city": "bangluru",
-    "location": "karnataka",
-    "postedAt": "2023-10-31",
-    "role": "Backend",
-    "level": "Senior",
-    "contract": "Full Time",
-    "position": "Junior Frontend Developer",
-    "language": "CSS",
-    "id": 3
-  },
-  {
-    "company": "Paytm",
-    "city": "bangluru",
-    "location": "karnataka",
-    "postedAt": "2023-10-31",
-    "role": "Backend",
-    "level": "Senior",
-    "contract": "Full Time",
-    "position": "Junior Frontend Developer",
-    "language": "Java",
-    "id": 4
-  },
-  {
-    "company": "Paytm",
-    "city": "bangluru",
-    "location": "karnataka",
-    "postedAt": "2023-10-31",
-    "role": "Backend",
-    "level": "Senior",
-    "contract": "Full Time",
-    "position": "Junior Frontend Developer",
-    "language": "Html",
-    "id": 5
-  },
-  {
-    "company": "Paytm",
-    "city": "bangluru",
-    "location": "karnataka",
-    "postedAt": "2023-10-31",
-    "role": "Frontend",
-    "level": "Senior",
-    "contract": "Full Time",
-    "position": "Junior Frontend Developer",
-    "language": "Java",
-    "id": 6
-  },
-  {
-    "company": "Paytm",
-    "city": "bangluru",
-    "location": "karnataka",
-    "postedAt": "2023-10-31",
-    "role": "Backend",
-    "level": "Senior",
-    "contract": "Full Time",
-    "position": "Junior Frontend Developer",
-    "language": "Html",
-    "id": 7
-  },
-  {
-    "company": "Paytm",
-    "city": "bangluru",
-    "location": "karnataka",
-    "postedAt": "2023-10-31",
-    "role": "Frontend",
-    "level": "Senior",
-    "contract": "Full Time",
-    "position": "Junior Frontend Developer",
-    "language": "Html",
-    "id": 8
-  },
-  {
-    "company": "Paytm",
-    "city": "bangluru",
-    "location": "karnataka",
-    "postedAt": "2023-10-31",
-    "role": "Frontend",
-    "level": "Senior",
-    "contract": "Full Time",
-    "position": "Junior Frontend Developer",
-    "language": "Java",
-    "id": 9
-  },
-  {
-    "company": "mayntra",
-    "city": "bangluru",
-    "location": "karnataka",
-    "postedAt": "2023-10-31",
-    "role": "Frontend",
-    "level": "Senior",
-    "contract": "Full Time",
-    "position": "Junior Frontend Developer",
-    "language": "Java",
-    "id": 10
-  },
-  {
-    "company": "vishal",
-    "city": "sehore",
-    "location": "sehore",
-    "postedAt": "2023-06-12",
-    "role": "Frontend",
-    "level": "Senior",
-    "contract": "Full Time",
-    "position": "Junior Frontend Developer",
-    "language": "C",
-    "id": 11
-  },
-  {
-    "company": "rohit",
-    "city": "bhopal",
-    "location": "bhopal",
-    "postedAt": "2022-06-12",
-    "role": "Frontend",
-    "level": "Senior",
-    "contract": "Full Time",
-    "position": "Junior Frontend Developer",
-    "language": "Javascript",
-    "id": 12
-  },
-    
-  {
-    "company": "Ellette",
-    "city": "Gangtok",
-    "location": "American Samoa",
-    "postedAt": "2022-12-20",
-    "role": "Frontend",
-    "level": "Senior",
-    "contract": "Full Time",
-    "position": "Junior Frontend Developer",
-    "language": "Javascript",
-    "id": 13
-  },
-  {
-    "company": "Nike",
-    "city": "London",
-    "location": "London",
-    "postedAt": "2023-01-31",
-    "role": "Backend",
-    "level": "Junior",
-    "contract": "Part Time",
-    "position": "Junior Frontend Developer",
-    "language": "CSS",
-    "id": 14
-  },
-  {
-    "company": "Paytm",
-    "city": "bangluru",
-    "location": "karnataka",
-    "postedAt": "2023-10-31",
-    "role": "Backend",
-    "level": "Senior",
-    "contract": "Full Time",
-    "position": "Junior Frontend Developer",
-    "language": "CSS",
-    "id": 3
-  },
-  {
-    "company": "Paytm",
-    "city": "bangluru",
-    "location": "karnataka",
-    "postedAt": "2023-10-31",
-    "role": "Backend",
-    "level": "Senior",
-    "contract": "Full Time",
-    "position": "Junior Frontend Developer",
-    "language": "Java",
-    "id": 32
-  },
-  {
-    "company": "Paytm",
-    "city": "bangluru",
-    "location": "karnataka",
-    "postedAt": "2023-10-31",
-    "role": "Backend",
-    "level": "Senior",
-    "contract": "Full Time",
-    "position": "Junior Frontend Developer",
-    "language": "Html",
-    "id": 15
-  },
-  {
-    "company": "Paytm",
-    "city": "bangluru",
-    "location": "karnataka",
-    "postedAt": "2023-10-31",
-    "role": "Frontend",
-    "level": "Senior",
-    "contract": "Full Time",
-    "position": "Junior Frontend Developer",
-    "language": "Java",
-    "id": 16
-  },
-  {
-    "company": "Paytm",
-    "city": "bangluru",
-    "location": "karnataka",
-    "postedAt": "2023-10-31",
-    "role": "Backend",
-    "level": "Senior",
-    "contract": "Full Time",
-    "position": "Junior Frontend Developer",
-    "language": "Html",
-    "id": 17
-  },
-  {
-    "company": "Paytm",
-    "city": "bangluru",
-    "location": "karnataka",
-    "postedAt": "2023-10-31",
-    "role": "Frontend",
-    "level": "Senior",
-    "contract": "Full Time",
-    "position": "Junior Frontend Developer",
-    "language": "Html",
-    "id": 18
-  },
-  {
-    "company": "Paytm",
-    "city": "bangluru",
-    "location": "karnataka",
-    "postedAt": "2023-10-31",
-    "role": "Frontend",
-    "level": "Senior",
-    "contract": "Full Time",
-    "position": "Junior Frontend Developer",
-    "language": "Java",
-    "id": 19
-  },
-  {
-    "company": "mayntra",
-    "city": "bangluru",
-    "location": "karnataka",
-    "postedAt": "2023-10-31",
-    "role": "Frontend",
-    "level": "Senior",
-    "contract": "Full Time",
-    "position": "Junior Frontend Developer",
-    "language": "Java",
-    "id": 110
-  },
-  {
-    "company": "vishal",
-    "city": "sehore",
-    "location": "sehore",
-    "postedAt": "2023-06-12",
-    "role": "Frontend",
-    "level": "Senior",
-    "contract": "Full Time",
-    "position": "Junior Frontend Developer",
-    "language": "C",
-    "id": 111
-  },
-  {
-    "company": "rohit",
-    "city": "bhopal",
-    "location": "bhopal",
-    "postedAt": "2022-06-12",
-    "role": "Frontend",
-    "level": "Senior",
-    "contract": "Full Time",
-    "position": "Junior Frontend Developer",
-    "language": "Javascript",
-    "id": 112
-  }
-  ],
-  "task": [
-    {
-    "task": "hyy",
-    "userid": "11",
-    "id": 1
-  }
-  ],
-  "twiterposts": [
-    {
-      "tweet": "Hello",
-      "gif": "https://media2.giphy.com/media/28GHfhGFWpFgsQB4wR/giphy.gif?cid=e9ac2e6c8ds9hx8gqqxlaqkd6v79pyef1dubtqd1awdnuk6l&rid=giphy.gif&ct=g",
-      "id": 1
-    },
-    {
-      "username": "John",
-      "tweet": "Hot Wheels",
-      "gif": "https://media3.giphy.com/media/B1CrvUCoMxhy8/giphy.gif?cid=e9ac2e6crwui2ceo4lijv4dyfefn1nmivqrhpfotwjpi581a&rid=giphy.gif&ct=g",
-      "id": 2
     }
   ],
-  "user": [
-   {
-    "id": 1,
-    "name": "Gertrudis Tatterton",
-    "age": 18,
-    "email": "gtatterton0@ehow.com"
-  },
+"jwl"  : [
   {
-    "id": 2,
-    "name": "Gail Newbatt",
-    "age": 53,
-    "email": "gnewbatt1@un.org"
-  },
-  {
-    "id": 3,
-    "name": "Walliw Wilstead",
-    "age": 49,
-    "email": "wwilstead2@tripadvisor.com"
-  },
-  {
-    "id": 4,
-    "name": "Abran Proback",
-    "age": 29,
-    "email": "aproback3@theglobeandmail.com"
-  },
-  {
-    "id": 5,
-    "name": "Roda Chappelow",
-    "age": 31,
-    "email": "rchappelow4@oaic.gov.au"
-  },
-  {
-    "id": 6,
-    "name": "Karney Wylie",
-    "age": 22,
-    "email": "kwylie5@miitbeian.gov.cn"
-  },
-  {
-    "id": 7,
-    "name": "Cammi Pimbley",
-    "age": 63,
-    "email": "cpimbley6@nyu.edu"
-  },
-  {
-    "id": 8,
-    "name": "Gavra Manning",
-    "age": 43,
-    "email": "gmanning7@lycos.com"
-  },
-  {
-    "id": 9,
-    "name": "Zachary Seward",
-    "age": 45,
-    "email": "zseward8@oracle.com"
-  },
-  {
-    "id": 10,
-    "name": "Chucho Norssister",
-    "age": 20,
-    "email": "cnorssister9@mayoclinic.com"
-  },
-  {
-    "email": "prabhatbhardwajjully18@gmail.com",
-    "username": "iamprabhat18",
-    "password": "123654",
-    "confirmPassword": "123654",
-    "id": 11
-  }
-  ],
-  "posts": [
-    {
-      "id": 1,
-      "title": "I Love Music",
-      "img_url": "https://giphy.com/gifs/hallmarkecards-cute-hallmark-shoebox-BzyTuYCmvSORqs1ABM",
-      "post_by": "kira@gmail.com"
-    }
-  ],
-  "data": [
-    {
-      "id": 1,
-      "name": "prabhat",
-      "age": "22",
-      "gender": "Male",
-      "Country": "India",
-      "Profession": "Student"
-    },
-    {
-      "id": 2,
-      "name": "Bhardwaj",
-      "age": "21",
-      "gender": "Male",
-      "Country": "India",
-      "Profession": "Employed"
-    }
-  ],
-  "notes": [
-    {
-      "id": 5,
-      "title": "Raina makes stunning ‘DRS’ revelation about MSD",
-      "description": "By HT Sports Desk MS Dhoni is well known for his accuracy in getting umpire's on-field calls reviewed by the Decision Review System. A DRS call can turn the match on its head, imagine getting a dismissal in one's favour or having one overturned by DRS. Such timely and perfect calls by a team's captain, have proven to be the gamechanger on many occasions in a cricket match. Such is the former India captain's reading of the game and moments in the match that cricket fans have started calling DRS as Dhoni Review System.",
-      "time": "20/01/2023"
-    },
-    {
-      "id": 3,
-      "title": "React",
-      "description": "If you don’t experience the problems described above or don’t feel comfortable using JavaScript tools yet, consider adding React as a plain tag on an HTML page, optionally with JSX.",
-      "time": "12/2/2022"
-    },
-    {
-      "id": 4,
-      "title": "React",
-      "description": "If you don’t experience the problems described above or don’t feel comfortable using JavaScript tools yet, consider adding React as a plain tag on an HTML page, optionally with JSX.",
-      "time": "12/2/2022"
-    },
-    {
-      "id": 2,
-      "title": "Product description",
-      "description": "The product description field can be used to provide detailed descriptions about the product. In contrast with the title, the description field can accept up to 16k characters (though we recommend no more than 10k characters) and support HTML tag based formatting of the content.",
-      "time": "02/06/2022"
-    },
-    {
-      "id": 7,
-      "title": "Anushka Sharma shares glimpse of her yoga pose inside daughter Vamika's room",
-      "description": "Anushka Sharma has often spoken about just how positive of an impact yoga has on her life. Sharing a photo from her recent yoga class, Anushka once again impressed her Instagram followers with her fitness routine. The actor shared a photo of herself doing yoga inside daughter Vamika Kohli's room",
-      "time": "21/01/2023"
-    }
-  ],
-  "companies":[
-    {
-      "id" : 1,
-      "company_logo": "https://logolook.net/wp-content/uploads/2021/11/HDFC-Bank-Logo.png",
-      "company_name": "HDFC Bank",
-      "company_type": "Bank",
-      "stock_exchange": "NSE",
-      "total_shares": 50000,
-      "cost_per_share": 4210,
-      "price_action": 12
-    },
-    {
-      "id" : 2,
-      "company_logo": "https://www.jetspot.in/wp-content/uploads/2018/03/reliance-logo.jpg",
-      "company_name": "Reliance Industries",
-      "company_type": "Oil",
-      "stock_exchange": "BSE",
-      "total_shares": 20000,
-      "cost_per_share": 2132,
-      "price_action": 4
-    }
-  ],
-  "dogs": [
-    {
-      "id": 1,
-      "name": "Cherry",
-      "age": 2,
-      "place": "Visakhapatnam",
-      "gender": "Male"
-    },
-    {
-      "id": 2,
-      "name": "Tommy",
-      "age": 3,
-      "place": "Banglore",
-      "gender": "Female"
-    }
-  ],
-  "books" :[
-  {
-    "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
-    "book_name": "Harry Potter and the Philosopher's Stone",
-    "author": "J. K. Rowling",
-		"genre": "fiction",
-		"edition": "2021",
-		"publisher": "Bloomsbury",
-		"cost": 1299,
-		"borrowed": false
-  }
-],
-"blog" :
-[
-  {
-		"id" : 1,
-    "username": "coreyschafer",
-    "title": "Be Present",
-    "content": "Turning away from the ledge, he started slowly down the mountain, deciding that he would, that very night, satisfy his curiosity about the man-house. In the meantime, he would go down into the canyon and get a cool drink, after which he would visit some berry patches just over the ridge, and explore among the foothills a bit before his nap-time, which always came just after the sun had walked past the middle of the sky. At that period of the day the sun’s warm rays seemed to cast a sleepy spell over the silent mountainside, so all of the animals, with one accord, had decided it should be the hour for their mid-day sleep.",
-		"category" : "Entertainment",
-		"date" : "2017-06-01",
-		"likes" : 24,
-		"comments" : [{"username" : "Jane", "content" : "Good One"}, {"username" : "Bob", "content" : "Loved It!"}],
-    "users":[{
-      
-    }]
-  }
-],
-	    "results": [
+    "id": "1",
+    "name": "Diamond Necklace",
+    "description": "This beautiful diamond necklace is perfect for any occasion",
+    "price": 1000.00,
+    "image": "https://example.com/diamond-necklace.jpg",
+    "category": "Necklaces",
+    "material": "18k Gold",
+    "gemstones": [
         {
-            "category": "Entertainment: Video Games",
-            "type": "multiple",
-            "difficulty": "hard",
-            "question": "Which of these TrackMania environments was NOT in the original game?",
-            "correct_answer": "Bay",
-            "incorrect_answers": [
-                "Desert",
-                "Snow",
-                "Rally"
-            ]
-        },
-        {
-            "category": "Entertainment: Video Games",
-            "type": "multiple",
-            "difficulty": "medium",
-            "question": "Which is not a playable character in the 2005 video game Killer7?",
-            "correct_answer": "Frank Smith",
-            "incorrect_answers": [
-                "Mask de Smith",
-                "Dan Smith",
-                "Coyote Smith"
-            ]
-        },
-        {
-            "category": "Science: Mathematics",
-            "type": "multiple",
-            "difficulty": "hard",
-            "question": "The decimal number 31 in hexadecimal would be what?",
-            "correct_answer": "1F",
-            "incorrect_answers": [
-                "3D",
-                "2E",
-                "1B"
-            ]
-        },
-        {
-            "category": "Entertainment: Video Games",
-            "type": "boolean",
-            "difficulty": "easy",
-            "question": "In Sonic the Hedgehog universe, Tails&#039; real name is Miles Prower.",
-            "correct_answer": "True",
-            "incorrect_answers": [
-                "False"
-            ]
-        },
-        {
-            "category": "Entertainment: Film",
-            "type": "multiple",
-            "difficulty": "medium",
-            "question": "Darth Vader&#039;s famous reveal to Luke is iconic. But which of these is the right one?",
-            "correct_answer": "&quot;No. I am your father.&quot;",
-            "incorrect_answers": [
-                "&quot;Luke, I am your father.&quot;",
-                "&quot;You&#039;re wrong. I am your father.&quot;",
-                "&quot;The truth is that I am your father.&quot;"
-            ]
-        },
-        {
-            "category": "Entertainment: Video Games",
-            "type": "multiple",
-            "difficulty": "medium",
-            "question": "This weapon in Counter-Strike: Global Offensive does not exist in real life.",
-            "correct_answer": "M4A4",
-            "incorrect_answers": [
-                "AWP",
-                "M4A1",
-                "MP9"
-            ]
-        },
-        {
-            "category": "Geography",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "What is the capital of India?",
-            "correct_answer": "New Delhi",
-            "incorrect_answers": [
-                "Bejing",
-                "Montreal",
-                "Tithi"
-            ]
-        },
-        {
-            "category": "Sports",
-            "type": "multiple",
-            "difficulty": "medium",
-            "question": "Why was The Green Monster at Fenway Park was originally built?",
-            "correct_answer": "To prevent viewing games from outside the park.",
-            "incorrect_answers": [
-                "To make getting home runs harder.",
-                "To display advertisements.",
-                "To provide extra seating."
-            ]
-        },
-        {
-            "category": "Entertainment: Japanese Anime & Manga",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "What name is the main character Chihiro given in the 2001 movie &quot;Spirited Away&quot;?",
-            "correct_answer": "Sen (Thousand)",
-            "incorrect_answers": [
-                "Hyaku (Hundred)",
-                "Ichiman (Ten thousand)",
-                "Juu (Ten)"
-            ]
-        },
-        {
-            "category": "Geography",
-            "type": "multiple",
-            "difficulty": "medium",
-            "question": "Which of the following is not a megadiverse country - one that harbors a high number of the earth&#039;s endemic species?",
-            "correct_answer": "Thailand",
-            "incorrect_answers": [
-                "Peru",
-                "Mexico",
-                "South Africa"
-            ]
+            "name": "Diamond",
+            "carat": 1.0,
+            "clarity": "VS1",
+            "color": "G",
+            "cut": "Round Brilliant"
         }
-    ]
+    ],
+    "inventory": {
+        "quantity": 10,
+        "size": "One Size",
+        "color": "Gold"
+    }
+}
+,{
+  "id": "2",
+  "name": "Diamond Necklace",
+  "description": "This beautiful diamond necklace is perfect for any occasion",
+  "price": 1000.00,
+  "image": "https://example.com/diamond-necklace.jpg",
+  "category": "Necklaces",
+  "material": "18k Gold",
+  "gemstones": [
+      {
+          "name": "Diamond",
+          "carat": 1.0,
+          "clarity": "VS1",
+          "color": "G",
+          "cut": "Round Brilliant"
+      }
+  ],
+  "inventory": {
+      "quantity": 10,
+      "size": "One Size",
+      "color": "Gold"
+  }
+}
+,{
+  "id": "3",
+  "name": "Diamond Necklace",
+  "description": "This beautiful diamond necklace is perfect for any occasion",
+  "price": 1000.00,
+  "image": "https://example.com/diamond-necklace.jpg",
+  "category": "Necklaces",
+  "material": "18k Gold",
+  "gemstones": [
+      {
+          "name": "Diamond",
+          "carat": 1.0,
+          "clarity": "VS1",
+          "color": "G",
+          "cut": "Round Brilliant"
+      }
+  ],
+  "inventory": {
+      "quantity": 10,
+      "size": "One Size",
+      "color": "Gold"
+  }
+}
+,{
+  "id": "5",
+  "name": "Diamond Necklace",
+  "description": "This beautiful diamond necklace is perfect for any occasion",
+  "price": 1000.00,
+  "image": "https://example.com/diamond-necklace.jpg",
+  "category": "Necklaces",
+  "material": "18k Gold",
+  "gemstones": [
+      {
+          "name": "Diamond",
+          "carat": 1.0,
+          "clarity": "VS1",
+          "color": "G",
+          "cut": "Round Brilliant"
+      }
+  ],
+  "inventory": {
+      "quantity": 10,
+      "size": "One Size",
+      "color": "Gold"
+  }
+}
+,{
+  "id": "6",
+  "name": "Diamond Necklace",
+  "description": "This beautiful diamond necklace is perfect for any occasion",
+  "price": 1000.00,
+  "image": "https://example.com/diamond-necklace.jpg",
+  "category": "Necklaces",
+  "material": "18k Gold",
+  "gemstones": [
+      {
+          "name": "Diamond",
+          "carat": 1.0,
+          "clarity": "VS1",
+          "color": "G",
+          "cut": "Round Brilliant"
+      }
+  ],
+  "inventory": {
+      "quantity": 10,
+      "size": "One Size",
+      "color": "Gold"
+  }
+}
+,{
+  "id": "7",
+  "name": "Diamond Necklace",
+  "description": "This beautiful diamond necklace is perfect for any occasion",
+  "price": 1000.00,
+  "image": "https://example.com/diamond-necklace.jpg",
+  "category": "Necklaces",
+  "material": "18k Gold",
+  "gemstones": [
+      {
+          "name": "Diamond",
+          "carat": 1.0,
+          "clarity": "VS1",
+          "color": "G",
+          "cut": "Round Brilliant"
+      }
+  ],
+  "inventory": {
+      "quantity": 10,
+      "size": "One Size",
+      "color": "Gold"
+  }
+}
 
+]
 }
